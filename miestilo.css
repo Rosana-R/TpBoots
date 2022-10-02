@@ -19,7 +19,7 @@ nav img{
 .flag{
     position: relative;
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(img/ba1.jpg) no-repeat; 
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(img/ba1.jpg) no-repeat; 
     background-size: cover;
 }
 section {
@@ -64,11 +64,10 @@ nav ul li a {
 }
 }
 
-
 #derecho {
-
     position: relative;
 }
+
 .BsAs{
     margin-top: 10px;
     margin-left: 15px;
